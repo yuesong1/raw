@@ -1,0 +1,9 @@
+REGU user,user
+LOGO
+USER user
+PASS user
+UPDA 1000
+GETS user
+ADDF admin
+GETF user
+LOGO

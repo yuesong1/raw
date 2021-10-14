@@ -1,2 +1,3 @@
-USER not
-QUIT
+USER admin
+PASS ad
+PASS admin
